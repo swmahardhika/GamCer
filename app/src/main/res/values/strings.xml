@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GamCer!</string>
+    <string name="email">E-Mail</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="password">Password</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Belum Terdaftar</string>
+    <string name="txtnama">Nama :</string>
+    <string name="txtid">ID Game :</string>
+    <string name="txtnominal">Voucher :</string>
+    <string name="txtemail">Email : </string>
+    <string name="txtphone">No. Handphone :</string>
+    <string name="accept">Accept</string>
+</resources>
